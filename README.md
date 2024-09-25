@@ -1,4 +1,4 @@
-# Hey it's Oleks!
+# Hey there!
 
 Hit me up if you have some A11y / Design System biz in mind.
 
